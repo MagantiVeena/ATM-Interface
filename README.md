@@ -1,2 +1,2 @@
 # ATM-Interface
-ATM interface description
+Voice-enabled GUI ATM simulator with JSON-based authentication.
